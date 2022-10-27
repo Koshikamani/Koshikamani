@@ -4,11 +4,13 @@ print("YOUR ONE TIME PASSWORD IS:",otp)
 mani=int(input("enter above 0TP:"))
 if otp==mani:
 	print("**successfully entered above OTP **")
+        print("\nNOTE:Don't share this OTP with any one")
+
 
 
 else:
 	print("**access not granted **")
-print("\nNOTE:Don't share this OTP with any one")
+
 
 
 password=input("\nenter your password:")
