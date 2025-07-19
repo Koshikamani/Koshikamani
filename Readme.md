@@ -60,34 +60,8 @@
 <!-- 
 ![20220309_132301](https://user-images.githubusercontent.com/78920780/157402895-6dab392c-ff36-4209-850d-061c41643eab.jpg)
  -->
-## Coding Profiles📈
-
-<span>
-<a href="https://codeforces.com/profile/Rajat.18">
-<img height="316" src="https://codeforces-readme-stats.vercel.app/api/card?username=Rajat.18&theme=github_dark&force_username=true&border_color=404040" alt="Rajat Codeforces Stats"/>
-</a>
-<a href="https://leetcode.com/log1/">
-<img height="316" src="https://leetcard.jacoblin.cool/log1?theme=dark&font=Ubuntu&cache=14400&ext=contest&sheets=https://gist.githubusercontent.com/RedHeadphone/5e715e284c89cace8f5fa09f7fb930b8/raw/ec0be570f114124b1a2156a660d67baa0ab5639d/leetcode_stats_card.css" alt="Rajat Leetcode Stats"/>
-</a>
-
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-
-<!-- <a href="https://app.daily.dev/Rajat_joshi"><img src="https://api.daily.dev/devcards/b88746ad55b249aebd019401b6a24655.png?r=8sh" width="300" alt="Rajat_Joshi's Dev Card"/></a> -->
 
 
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px">
-
-<!-- 📊 **This week i spent my time on:** -->
-<!--START_SECTION:waka-->
-
-<!-- ```text
-CF/LC        8 hrs 30 mins   ████████████████████▓░░░░   70.87 %
-Amazon_SDE   2 hrs 22 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   20.18 %
-Algorithm    1 hrs 5 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   10.40 %
-Development  1 hrs 1 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   5.25 %
-Other        5 hrs           ▒░░░░░░░░░░░░░░░░░░░░░░░░   3.76 %
-``` -->
-<!--END_SECTION:waka-->
 
 
 <!-- ![Top Langs](https://activity-graph.herokuapp.com/graph?username=18-RAJAT&theme=minimal) 
