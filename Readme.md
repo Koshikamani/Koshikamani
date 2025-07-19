@@ -238,10 +238,10 @@ Other        5 hrs           ▒░░░░░░░░░░░░░░░░
   
 <p align="center">
 <!--
-<a href="https://github.com/pulls?q=is%3Apr+author%3AAleksey-Voko+archived%3Afalse+is%3Aclosed"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=18-RAJAT&theme=github_dark&utcOffset=4"  width="31%" alt="@Voko's productive-time"/></a>
+<a href="https://github.com/pulls?q=is%3Apr+author%3AAleksey-Voko+archived%3Afalse+is%3Aclosed"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Koshikamani&theme=github_dark&utcOffset=4"  width="31%" alt="@Voko's productive-time"/></a>
 <a href="https://github.com/issues?q=is%3Aissue+author%3AAleksey-Voko+archived%3Afalse+is%3Aclosed"> -->
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=18-RAJAT&theme=github_dark&hide_border=true"  width="64%" alt="@Voko's profile-details"/></a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Koshikamani&theme=github_dark&hide_border=true"  width="64%" alt="@Voko's profile-details"/></a>
 </p>
   
   
@@ -252,13 +252,13 @@ Other        5 hrs           ▒░░░░░░░░░░░░░░░░
 
 
 <p align="center">
-<a href="https://github.com/Aleksey-Voko?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=18-RAJAT&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="@Voko's github-readme-stats"/></a>
-<a href="https://github.com/Aleksey-Voko?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=18-RAJAT&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Voko's github-readme-streak-stats"/></a>
+<a href="https://github.com/Aleksey-Voko?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=Koshikamani&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="@Voko's github-readme-stats"/></a>
+<a href="https://github.com/Aleksey-Voko?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=Koshikamani&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Voko's github-readme-streak-stats"/></a>
 </p>
 
 
 
-![Rajat's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=18-RAJAT&theme=gotham&layout=compact&langs_count=8&hide_border=true)
+![Rajat's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Koshikamani&theme=gotham&layout=compact&langs_count=8&hide_border=true)
 
 
 
@@ -327,16 +327,16 @@ Other        5 hrs           ▒░░░░░░░░░░░░░░░░
   
 
 <!-- ## Top Languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=18-RAJAT&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Koshikamani&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
    -->
   <!-- 
 
   ## GitHub Stats:
-  ![Rajat's GitHub stats](https://github-readme-stats.vercel.app/api?username=18-RAJAT&show_icons=true&theme=tokyonight)
+  ![Rajat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Koshikamani&show_icons=true&theme=tokyonight)
     -->
     
 <!--     
-   <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=18-RAJAT&theme=github_dark&hide=contribs,issues&show_icons=true&hide_border=true" alt="RAJAT's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=18-RAJAT&theme=github_dark&layout=compact&hide_border=true" /></a> |
+   <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Koshikamani&theme=github_dark&hide=contribs,issues&show_icons=true&hide_border=true" alt="RAJAT's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=18-RAJAT&theme=github_dark&layout=compact&hide_border=true" /></a> |
  -->
  
  
