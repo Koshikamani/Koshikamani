@@ -90,20 +90,16 @@ Other        5 hrs           ▒░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 
- ![Profile Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F18-RAJAT1212%2Fhit-counter)
-
 <!-- ![Top Langs](https://activity-graph.herokuapp.com/graph?username=18-RAJAT&theme=minimal) 
 
 
 - 🌱 I’m currently doing **Chart** -->
 
-- 🙌 Github **Rajat Joshi**
+- 🙌 Github **Koshikamani**
 
 - 🤝 I’m looking for help with **collaborate on Projects.**
 
-- 📫 How to reach me **Rajatjoshi7535@gmail.com**
-
-- ⚡ Fun fact 🙌 **Those who cannot remember the past are condemned to repeat it.**
+- 📫 How to reach me **manikoshika39@gmail.com**
 
 
 <!-- <h3 align="right"></h3>
@@ -112,14 +108,7 @@ Other        5 hrs           ▒░░░░░░░░░░░░░░░░
  -->
 
 
- 
-```javascript
 
-
-ios_base::sync_with_stdio(false);  
-cin.tie(NULL);
-
-```
  
  
 ## 👩‍💻 IDE 
