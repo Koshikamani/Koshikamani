@@ -264,22 +264,22 @@ Other        5 hrs           ▒░░░░░░░░░░░░░░░░
 
 <!-- 
   ## Streak:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=18-RAJAT&theme=github-dark-blue&bg_color=0,000000,130F40)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Koshikamani&theme=github-dark-blue&bg_color=0,000000,130F40)](https://git.io/streak-stats)
 
 
 <p align="left">
 
-<img align="center" height="180px" width="450" src="https://github-readme-stats.vercel.app/api?username=18-RAJAT&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Rajat's Github Stats">
+<img align="center" height="180px" width="450" src="https://github-readme-stats.vercel.app/api?username=Koshikamani&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Rajat's Github Stats">
   
-  <a href="https://github.com/18-RAJAT">
-  <img align="center" height="180px" width="300"src="https://github-readme-stats.vercel.app/api/top-langs/?username=18-RAJAT&layout=compact&&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"
+  <a href="https://github.com/Koshikamani">
+  <img align="center" height="180px" width="300"src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koshikamani&layout=compact&&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"
 </a>
     </p>
   
 
   -->
  
-<!--  <img align="center" src="https://github-readme-stats.vercel.app/api?username=18-RAJAT&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Rajat's Github Stats"> -->
+<!--  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Koshikamani&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Rajat's Github Stats"> -->
 
 
 
@@ -287,12 +287,12 @@ Other        5 hrs           ▒░░░░░░░░░░░░░░░░
  
  
 <!--  
-<a href="https://www.adamalston.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=18-RAJAT&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> -->
+<a href="https://www.adamalston.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=Koshikamani&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> -->
 
 <!-- <hr/>
-<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=18-RAJAT&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
+<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koshikamani&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /></a>
   -->
-<!-- (https://github.com/18-RAJAT/github-readme-activity-graph)
+<!-- (https://github.com/Koshikamani/github-readme-activity-graph)
  -->
  
  
