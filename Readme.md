@@ -204,7 +204,7 @@
 <a href="https://github.com/pulls?q=is%3Apr+author%3AAleksey-Voko+archived%3Afalse+is%3Aclosed"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Koshikamani&theme=github_dark&utcOffset=4"  width="31%" alt="@Voko's productive-time"/></a>
 <a href="https://github.com/issues?q=is%3Aissue+author%3AAleksey-Voko+archived%3Afalse+is%3Aclosed"> -->
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Koshikamani&theme=github_dark&hide_border=true"  width="64%" alt="@Voko's profile-details"/></a>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Koshikamani&theme=github_dark&hide_border=true"  width="64%" alt=""/></a>
 </p>
   
   
@@ -215,8 +215,8 @@
 
 
 <p align="center">
-<a href="https://github.com/Aleksey-Voko?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=Koshikamani&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%" alt="@Voko's github-readme-stats"/></a>
-<a href="https://github.com/Aleksey-Voko?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=Koshikamani&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@Voko's github-readme-streak-stats"/></a>
+<a href="https://github.com/Koshikamani?tab=repositories"><img src="https://github-readme-stats.vercel.app/api?username=Koshikamani&theme=gotham&show_icons=true&count_private=true&hide_border=true"  width="48%" alt=""/></a>
+<a href="https://github.com/Koshikamani?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=Koshikamani&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt=""/></a>
 </p>
 
 
