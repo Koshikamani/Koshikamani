@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="animation.gif" width="30%" alt="Hello">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6b3eff&height=150&section=header" width="100%" alt="Header">
 </p>
 
 <h1 align="center">Hi 👋, I'm Mani</h1>
@@ -34,6 +34,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
 </p>
 
 ---
@@ -41,12 +42,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Koshikamani&show_icons=true&theme=gotham&hide_border=true" height="180">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Koshikamani&theme=gotham&hide_border=true" height="180">
+  <img src="https://github-readme-stats.vercel.app/api?username=Koshikamani&show_icons=true&theme=gotham&hide_border=true&count_private=true" height="180" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Koshikamani&theme=gotham&hide_border=true" height="180" alt="GitHub Streak">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koshikamani&layout=compact&langs_count=8&theme=gotham&hide_border=true" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koshikamani&layout=compact&langs_count=8&theme=gotham&hide_border=true" height="180" alt="Top Languages">
 </p>
 
 ---
@@ -72,10 +73,10 @@
 
 <p align="center">
   <a href="https://github.com/Koshikamani">GitHub</a>
-  &nbsp;•&nbsp;
+  &nbsp; • &nbsp;
   <a href="https://leetcode.com/u/Mani1339/">LeetCode</a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6b3eff&height=100&section=footer">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6b3eff&height=100&section=footer" width="100%" alt="Footer">
 </p>
