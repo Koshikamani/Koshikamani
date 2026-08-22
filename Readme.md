@@ -39,7 +39,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Koshikamani&theme=gotham&hide_border=true" width="500" alt="GitHub Streak">
@@ -62,14 +62,6 @@
       width="100%"
       alt="GitHub Contribution Snake">
   </picture>
-</p>
-
----
-
-<p align="center">
-  <a href="https://github.com/Koshikamani">GitHub</a>
-  &nbsp; • &nbsp;
-  <a href="https://leetcode.com/u/Mani1339/">LeetCode</a>
 </p>
 
 <p align="center">
