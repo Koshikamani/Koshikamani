@@ -42,12 +42,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Koshikamani&show_icons=true&theme=gotham&hide_border=true&count_private=true" height="180" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Koshikamani&theme=gotham&hide_border=true" height="180" alt="GitHub Streak">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Koshikamani&layout=compact&langs_count=8&theme=gotham&hide_border=true" height="180" alt="Top Languages">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Koshikamani&theme=gotham&hide_border=true" width="500" alt="GitHub Streak">
 </p>
 
 ---
